@@ -18,6 +18,8 @@ C言語でPICマイコンのプログラミングを始めたい方から，
 
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2018/03/scan.jpg)
 
+## [製品ページ](https://bit-trade-one.co.jp/product/assemblydisk/adgh184apc/)
+
 ## 製品仕様 　
 
 製品名：C言語によるPICプログラミング大全  アナログ基板  
